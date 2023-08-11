@@ -1,0 +1,51 @@
+.work {
+    height: 600px;
+    width: 500px;
+}
+
+.body {
+    background-color: #0D335D;
+}
+
+.color {
+    background-color: #D6E5FA;;
+}
+
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.font1 {
+    color: #0D335D;
+    font-family: 'Bree Serif', serif;
+}
+
+.profile {
+    height: 600px;
+}
+
+.hr {
+    border: solid white 10px;
+}
+
+img {
+    border-radius: 1%;
+}
+
+
+p {
+    color: #1A508B;
+    font-family: 'REM', sans-serif;
+}
+
+li {
+    color: #1D5D9B;
+    font-family: 'REM', sans-serif;
+}
+span {
+    font-weight: bold;
+    color: #0D335D;
+}
